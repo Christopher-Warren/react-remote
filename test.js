@@ -1,2 +1,3 @@
-const string = 'hello world'
-console.log(string)
+const Component = () => {
+  return <div>HELLO</div>
+}
