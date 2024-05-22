@@ -1,3 +1,3 @@
 const Component = () => {
-  return <div>HELLO</div>
+    return <div>HELLO</div>
 }
